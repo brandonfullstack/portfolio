@@ -34,19 +34,19 @@ a:link {
 }
 
 a:visited {
-  color: #cb5dd3;
+  color: #a335ee;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(0, 162, 255);
+  color: #0070d0;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #ffa600;
+  color: #ff6c33;
   background-color: transparent;
   text-decoration: underline;
 }
