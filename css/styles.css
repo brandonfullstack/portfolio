@@ -3,12 +3,18 @@ body {
   color: aqua;
 }
 
-img {
-  width: 20%;
+div.intro {
+  width: 70%;
+  margin: 5px;
+  padding: 10px;
 }
 
-.column {
-  width: 20%;
+img {
+  width: 200px;
+}
+
+div.column {
+  width: 250px;
   float: left;
   margin: 5px;
   padding: 10px;
