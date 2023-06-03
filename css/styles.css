@@ -1,6 +1,7 @@
 body {
   background-color: #252525;
-  color: aqua;
+  color: #d1d1d1;
+  font-family: sans-serif;
 }
 
 div.intro {
@@ -15,6 +16,7 @@ img {
 
 div.column {
   width: 250px;
+  height: 250px;
   float: left;
   margin: 5px;
   padding: 10px;
@@ -23,4 +25,28 @@ div.column {
 
 .box {
   width: 80%;
+}
+
+a:link {
+  color: #7a77a2;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #cb5dd3;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 162, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ffa600;
+  background-color: transparent;
+  text-decoration: underline;
 }
