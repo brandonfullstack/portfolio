@@ -2,3 +2,16 @@ body {
   background-color: rgb(37, 37, 37);
   color: aqua;
 }
+
+.column {
+  width: 20%;
+  float: left;
+  margin: 5px;
+  padding: 5px;
+}
+
+.box {
+  width: 80%;
+  border: solid black;
+  border-width: 1px;
+}
