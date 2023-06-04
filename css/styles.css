@@ -16,8 +16,8 @@ img {
 }
 
 div.column {
-  width: 250px;
-  height: 250px;
+  width: 275px;
+  height: 275px;
   float: left;
   margin: 5px;
   padding: 10px;
@@ -25,7 +25,7 @@ div.column {
 }
 
 .box {
-  width: 80%;
+  width: 85%;
 }
 
 a:link {
