@@ -4,6 +4,10 @@
 
 #### _A simple webpage for housing projects completed at Epicodus_
 
+[GitHub Pages Site](https://brandonfullstack.github.io/portfolio/)
+
+[Repo](https://github.com/brandonfullstack/portfolio.git)
+
 ## Technologies Used
 
 * _HTML_
